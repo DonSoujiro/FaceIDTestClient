@@ -1,0 +1,4 @@
+include ':deviceSecurity-release'
+include ':faceIdLib-release'
+include ':app'
+rootProject.name = "FaceIDTestClient"
